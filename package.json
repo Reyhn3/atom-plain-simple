@@ -4,7 +4,7 @@
   "description": "Simple text highlighting for text/plain files.",
   "keywords": [
     "text",
-    "plain"
+    "plain",
     "syntax",
     "highlight"
   ],

@@ -1,0 +1,15 @@
+[Plain And Simple Text]
+	This package does not "format" the text - it simply colors it!
+	Coloring adds **visual** formatting to make it simpler to read.
+
+	[Some Highlights]
+		Dates, 2015-12-24, and numbers, -3.14, are identified.
+		URLs, http://atom.io/, as well.
+
+		Lists:
+			*	Important
+			*	Items
+			*	Are
+			*	Fun
+
+		Plain and simple text! (:

@@ -1,0 +1,59 @@
+[HEADINGS SHALL BE COLORED]
+	All list bullets shall be colored:
+		*	List item
+		1)	List item
+		§	List item
+		§1	List item
+		§ 1	List item
+
+
+[Emphasized Text]
+	Emphasized _word_ shall be **colored**.
+	Also, "citations" should be 'colored'.
+
+
+[Numbers 1]
+	Digits in headings shall NOT be colored.
+	These should be, though:
+
+		1
+		12
+		-1
+		-12
+		1.2
+		1,2
+		-1.2
+		-1,2
+		0x1
+		0xFF
+		0x0123456789ABCDEF
+
+	Numbers in 4 sentence shall be 3.14 colored, but n0t in a 0xA word.
+	Formulas such as 1 + (2 * 3) / 4 = 1.75 should be colored.
+
+	The following digits shall not be colored:
+
+		h1
+		a12
+		0xG
+
+
+[Paths And Identifiers]
+	All paths should be colored:
+
+		C:\Windows\
+		%ProgramFiles(x86)%\Microsoft Visual Studio 12.0\Common7\IDE
+		%LocalAppData%\Microsoft\VisualStudio\12.0\Extensions
+		http://atom.io/
+		http://localhost:8080/path
+		00:25:B3:14:91:DD
+		127.0.0.1
+		192.168.0.1
+		192.168.0.1:80
+		http://192.168.0.1:80
+		\\Host\
+		\\Host\Path
+
+
+[Date And Time]
+	Dates 2015-12-24, as well as timestamps 12:24:35.777 shall be colored.
