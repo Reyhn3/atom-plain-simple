@@ -13,7 +13,7 @@
     "url": "git+https://github.com/Reyhn3/atom-plain-simple.git"
   },
   "homepage": "https://github.com/Reyhn3/atom-plain-simple",
-  "license": "MIT",
+  "license": "CC BY-SA 4.0",
   "engines": {
     "atom": ">= 0.100.0",
     "node": "*"

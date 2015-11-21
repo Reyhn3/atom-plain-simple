@@ -2,6 +2,8 @@
 
 Adds highlighting to plain text files in [Atom](https://atom.io/) to improve the visual structure of the document.
 
+![Screenshot](https://github.com/Reyhn3/atom-plain-simple/blob/master/screenshots/screenshot.png)
+
 Contributions, bug reports and feature requests are very welcome!
 
 &nbsp; &nbsp; &nbsp; &nbsp; _- Reyhn_
