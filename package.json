@@ -1,6 +1,6 @@
 {
   "name": "plain-simple",
-  "version": "1.0.0",
+  "version": "0.9.0",
   "description": "Simple text highlighting for text/plain files.",
   "keywords": [
     "text",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Reyhn3/atom-plain-simple.git"
+    "url": "https://github.com/Reyhn3/atom-plain-simple"
   },
   "homepage": "https://github.com/Reyhn3/atom-plain-simple",
   "license": "CC BY-SA 4.0",
