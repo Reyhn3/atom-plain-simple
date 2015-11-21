@@ -1,0 +1,26 @@
+{
+  "name": "plain-simple",
+  "version": "1.0.0",
+  "description": "Simple text highlighting for text/plain files.",
+  "keywords": [
+    "text",
+    "plain"
+    "syntax",
+    "highlight"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reyhn3/atom-plain-simple.git"
+  },
+  "homepage": "https://github.com/Reyhn3/atom-plain-simple",
+  "license": "MIT",
+  "engines": {
+    "atom": ">= 0.100.0",
+    "node": "*"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Reyhn3/atom-plain-simple/issues"
+  },
+  "readme": "This is a simple text highlighting package for plain text files."
+}
