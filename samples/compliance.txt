@@ -96,7 +96,16 @@ First-column lists shall also be highlighted:
 		127.0.0.1
 		192.168.0.1
 		192.168.0.1:80
+		IP-address at the end of a sentence 192.168.0.1.
 		This is a URL http://192.168.0.1:80 in the middle of the text
+		2001:0db8:85a3:0000:0000:8a2e:0370:7334
+		2001:db8:85a3:0:0:8a2e:370:7334
+		2001:db8:85a3::8a2e:370:7334
+		::1
+		2001:0db8::0001
+		2001:db8::1
+		2001:db8:0:0:0:0:2:1
+		2001:db8::2:1
 		\\Host\
 		\\Host\Path
 		This is an e-mail address package@atom.io in the middle of the txt
@@ -104,4 +113,4 @@ First-column lists shall also be highlighted:
 
 
 [Date And Time]
-	Dates 2015-12-24, as well as timestamps 12:24:35.777 shall be colored.
+	Dates 2015-12-24, as well as timestamps 12:34:56.789 shall be colored.
