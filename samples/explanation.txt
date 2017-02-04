@@ -30,5 +30,5 @@
 
 
 	[Number Highlighting]
-		Numbers -3.14157,  0xFF and digits 7 are highlighted because they usually carry significance.
+		Numbers -3.14157, 0xFF and digits 7 are highlighted because they usually carry significance.
 		And here's a formula 2 * (3 + 1) / 4 = ? to prove it!
