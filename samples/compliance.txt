@@ -90,15 +90,17 @@ First-column lists shall also be highlighted:
 		C:\Windows\
 		%ProgramFiles(x86)%\Microsoft Visual Studio 12.0\Common7\IDE
 		%LocalAppData%\Microsoft\VisualStudio\12.0\Extensions
-		http://atom.io/
-		http://localhost:8080/path
+		This is a URL http://atom.io/ in the middle of the text
+		This is a URL http://localhost:8080/path in the middle of the text
 		00:25:B3:14:91:DD
 		127.0.0.1
 		192.168.0.1
 		192.168.0.1:80
-		http://192.168.0.1:80
+		This is a URL http://192.168.0.1:80 in the middle of the text
 		\\Host\
 		\\Host\Path
+		This is an e-mail address package@atom.io in the middle of the txt
+		This is an e-mail address mailto:package@atom.io in the middle of the txt
 
 
 [Date And Time]
