@@ -63,13 +63,15 @@ First-column lists shall also be highlighted:
 	These should be, though:
 
 		1
-		12
+		123
 		-1
-		-12
-		1.2
-		1,2
-		-1.2
-		-1,2
+		-123
+		1.2345
+		1,2345
+		-1.2345
+		-1,2345
+		.99
+		4. (end of sentence)
 		0x1
 		0xFF
 		0x0123456789ABCDEF

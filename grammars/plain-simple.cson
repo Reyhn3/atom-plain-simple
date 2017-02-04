@@ -67,7 +67,8 @@
       }
       {
         # Numbers
-        'match': '\\b(0x[a-fA-F\\d]+)\\b|-?\\b(\\d*[\\.,]?\\d+)\\b'
+#        'match': '\\b(0x[a-fA-F\\d]+)\\b|-?\\b(\\d*[\\.,]?\\d+)\\b'
+        'match': '(\\b(0x[a-fA-F\\d]+)\\b)|([+-]?(\\b(\\d+([\\.,]\\d+)?)|(\\.\\d+))\\b)'
         'name': 'text.plain.simple.plainsimple-number'
       }
       {
