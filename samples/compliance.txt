@@ -22,7 +22,7 @@
 		§	List item
 			§	List item
 			§§	List item
-		§§	List itme
+		§§	List item
 		§1	List item
 			§1.1	List item
 			§§1.1	List item

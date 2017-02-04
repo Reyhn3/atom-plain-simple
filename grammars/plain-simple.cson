@@ -1,5 +1,6 @@
 'scopeName': 'text.plain.simple'
 'name': 'Plain Simple Text'
+'injectionSelector': 'text.plain, comment'
 'fileTypes': [
   'txt'
 ]
