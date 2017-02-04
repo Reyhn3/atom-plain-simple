@@ -92,7 +92,9 @@ First-column lists shall also be highlighted:
 		%LocalAppData%\Microsoft\VisualStudio\12.0\Extensions
 		This is a URL http://atom.io/ in the middle of the text
 		This is a URL http://localhost:8080/path in the middle of the text
-		00:25:B3:14:91:DD
+		00:25:B3:14:91:DD (MAC-address) (in lowercase 00:25:b3:14:91:dd).
+		Standard MAC-48 address: 3D:F2:C9:A6:B3:4F.
+		MAC with hyphens 3D-F2-C9-A6-B3-4F is also correct.
 		127.0.0.1
 		192.168.0.1
 		192.168.0.1:80
