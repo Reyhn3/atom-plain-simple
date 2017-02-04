@@ -1,10 +1,55 @@
 [HEADINGS SHALL BE COLORED]
 	All list bullets shall be colored:
 		*	List item
+			*	List item
+			**	List item
+				*	List item
+				***	List item
+		**	List item
 		1)	List item
+			1)		List item
+			1.1)	List item
+				1.1.1)	List item
+			1.2.1)	List item
+			1.2.1.1)	List item
+		1.2)	List item
+		1.	List item
+			1.		List item
+			1.1.	List item
+			1.2.1.	List item
+				1.2.1.1.	List item
+			1.2.1.1.	List item
 		§	List item
+			§	List item
+			§§	List item
+		§§	List itme
 		§1	List item
+			§1.1	List item
+			§§1.1	List item
+		§1.2	List item
 		§ 1	List item
+			§ 1.1	List item
+			§§ 1.1	List item
+		§ 1.2	List item
+
+First-column lists shall also be highlighted:
+1)	Level one number
+1.1)	Level two number
+1.	Level one number
+1.1.	Level two number
+*	Level one bullet
+	*	Level two bullet
+**	Level two bullet
+§	Level one paragraph
+	§	Level two paragraph
+	§§	Level two paragraph
+§§ Level two paragraph
+§1	Level one paragraph
+	§1.1	Level two paragraph
+	§§1.1	Level two paragraph
+§ 1	Level one paragraph
+	§ 1.1	Level two paragraph
+	§§ 1.1	Level two paragraph
 
 
 [Emphasized Text]
